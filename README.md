@@ -1,3 +1,3 @@
 # rdfs-in-neo4j
 
-TODO
+Project developed for the course of "Data Management" during the MSc Artificial Intelligence and Robotics at Sapienza University of Rome, A.Y. 2023-2024.
