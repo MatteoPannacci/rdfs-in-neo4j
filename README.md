@@ -12,6 +12,4 @@ Implementation of a RDFS-based Knowledge Graph in Python interacting with Neo4J 
 
 ## Requirements
 
-The program requires the Neo4j Driver library for Python to interact with a Neo4j database. You can install it using pip:
-
-```pip install neo4j```
+The program requires the Neo4j Driver library for Python to interact with a Neo4j database. You can install it using pip: ```pip install neo4j```
