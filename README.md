@@ -5,9 +5,7 @@ Project developed for the course of "Data Management" during the MSc in Artifici
 
 ## Summary
 
-Implementation of a RDFS-based Knowledge Graph through a Neo4J Session performing updates, syntax checking and deduction directly on the graph through queries in Cypher.
-
-Implementation of a RDFS-based Knowledge Graph in Python interacting with Neo4J for importing/exporting Knowledge Graphs.
+Implementation of 2 class structures representing RDFS-based Knowledge Graphs. The first version uses a Neo4J Session to perform updates, syntax check and deduction directly on the graph through queries in Cypher. The second version performs these operations in Python and is able to interact with a Neo4J Session for importing/exporting Knowledge Graphs.
 
 
 ## Requirements
